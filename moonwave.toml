@@ -1,1 +1,3 @@
-baseURL = /bluware.github.io/
+gitSourceBranch = "main"
+url = "https://bluwarerbx.github.io/bluware.github.io/"
+baseUrl = "/projectName"
