@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[679],{63891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/bluwarerbx/custom-interaction-framework/blob/master","baseUrl":"/custom-interaction-framework/","classOrder":[],"apiCategories":[]}')}}]);
